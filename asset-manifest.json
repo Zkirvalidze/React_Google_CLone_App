@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Google_Clone_App/static/css/main.5bf5de62.css",
+    "main.js": "/React_Google_Clone_App/static/js/main.5a614152.js",
+    "index.html": "/React_Google_Clone_App/index.html",
+    "main.5bf5de62.css.map": "/React_Google_Clone_App/static/css/main.5bf5de62.css.map",
+    "main.5a614152.js.map": "/React_Google_Clone_App/static/js/main.5a614152.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf5de62.css",
+    "static/js/main.5a614152.js"
+  ]
+}
